@@ -1,62 +1,58 @@
  <center>
-     <h1>XXX</h1>
+     <h1>简历</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15881175612
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             582156740@qq.com
          </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
-     </div>
+         
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="20px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 吴宇航，男，2000 年出生
+ - 求职意向：前端 / 全栈开发
+ - 工作经验：4年
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，电子科技大学，软件工程专业，2018.9~2022.7
+- 通过 CET4/6 英语等级考试
+- 通过 JLPT N1 日语等级考试
+- 2020年 中国高校计算机大赛-移动应用创新大赛 一等奖
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="20px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **字节跳动，抖音，前端开发工程师，2022.7~2025.8**
+   - 低代码平台（B端H5）开发
+   - 移动端页面一码三端（C端H5、ReactLynx跨端）
+   - Node服务接口开发
+- **京东集团，零售，软件开发工程师，2025.9~至今**
+   - CMS平台（B端H5）开发
+   - 移动端页面一码三端（Taro跨端）
 
-   负责 XXX
+## <img src="assets/project-diagram-solid.svg" width="20px"> 项目经历
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+- **2025抖音春节活动-找年味会场**
 
-- **XXXX 项目**
+- **商品浏览记录页重构**
+  *React Taro*
+  利用用户商品的浏览记录
 
-  *使用到的技术*
+- **AI比选**
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  *React Taro*
+  Markdown解析、流式渲染
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="20px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★★ JavaScript / TypeScript
+- ★★★ H5 / CSS / DOM
+- ★★★ React
+- ★★☆ Node
+- ★★☆ ClaudeCode Vibe Coding
